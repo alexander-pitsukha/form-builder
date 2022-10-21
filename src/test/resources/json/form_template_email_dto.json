@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "createDate": null,
+  "updateDate": null,
+  "actionName": "3b07c568-6e04-4b73-9149-c58385636d94",
+  "emailAddress": "260e741e-5e83-4877-b31b-d9ab8108f2c6",
+  "replyEmailAddress": "1ebebeeb-cbaa-4f55-8e18-b330965028d6",
+  "emailSubject": "82c00fca-49a3-4d2f-abc3-c6253bde6b67",
+  "emailBody": "843e1229-a15f-448a-9321-2d0aa789ca22",
+  "fromName": "3a057588-88d5-4530-83e9-e13de7df92f7",
+  "fromAddress": "3423fde6-acb1-43d6-9e77-9252f96f51ad",
+  "attachment": "3912d8c6-ebff-4239-b5cd-cf8d86d96f5c",
+  "enabled": true,
+  "formTemplateId": 1
+}

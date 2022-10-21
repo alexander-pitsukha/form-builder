@@ -1,0 +1,32 @@
+[
+  {
+    "id": -3653871372178828524,
+    "createDate": null,
+    "updateDate": null,
+    "title": null,
+    "description": null,
+    "schema": null,
+    "accountId": null,
+    "themeColor": null,
+    "backgroundColor": null,
+    "textFont": null,
+    "enabled": null,
+    "formTemplateEmailDtos": null,
+    "formTemplateActionDtos": null
+  },
+  {
+    "id": 5018929590310636980,
+    "createDate": null,
+    "updateDate": null,
+    "title": null,
+    "description": null,
+    "schema": null,
+    "accountId": null,
+    "themeColor": null,
+    "backgroundColor": null,
+    "textFont": null,
+    "enabled": null,
+    "formTemplateEmailDtos": null,
+    "formTemplateActionDtos": null
+  }
+]

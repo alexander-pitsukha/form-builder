@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "createDate": null,
+  "updateDate": null,
+  "title": "ffb4e372-63cd-474f-9281-0ba81883065c",
+  "description": "79b5249d-9403-491f-848e-789b9e974443",
+  "schema": "724ab081-83ec-461b-906a-1312f767c786",
+  "accountId": 8056224788430123942,
+  "themeColor": "264e4b8c-959e-49eb-813e-a71bd470cf66",
+  "backgroundColor": "ae938660-8b01-4488-992e-22ae523556ed",
+  "textFont": "17d785c2-2725-4d5d-8c5b-c03a8ac4732f",
+  "enabled": false,
+  "formTemplateEmails": [],
+  "formTemplateActions": []
+}
